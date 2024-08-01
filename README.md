@@ -1,6 +1,6 @@
 # Sprinter
 ### Description
-Sprint creation for Agile workflow
+Automatic sprint creation for Agile workflow from input csv file
 
 ### Installation Process
 1. Download Java JDK 22 by copying and pasting this link in preferred browser: https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe 
