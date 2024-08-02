@@ -33,8 +33,8 @@ Refer to ---
 * [Haya Shalaby](https://github.com/HayaShalaby)
 
 ## License
-Copyright 2024 Mazen Ahmed 
-Copyright 2024 Haya Shalaby  
+*Copyright 2024 Mazen Ahmed 
+*Copyright 2024 Haya Shalaby  
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
