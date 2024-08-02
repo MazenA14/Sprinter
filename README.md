@@ -18,11 +18,12 @@ You must have a running Java version. This project was created using the 2022 ve
 5. Click on 'Environment Variables'
 6. Under 'User Variables', click 'New' and set variable name to 'JAVA_HOME' and variable value to 'C:\Program Files\Java\jdk-22\bin' and click 'OK'
 7. Under 'System Variables', click on 'Path' variable and click 'Edit'
-8. Click 'New' and write '%JAVA_HOME%\bin' and click 'OK' on all open windows 
-9. Run Sprinter.exe
+8. Click 'New' and write '%JAVA_HOME%\bin' and click 'OK' on all open windows
+9. Download Sprinter executable file from here: [Sprinter V1](https://github.com/MazenA14/Sprinter/releases/tag/v1) 
+10. Run Sprinter.exe
 
 ## Input File Restrictions
-Refer to --- 
+Refer to 'Input File Format' in the repo  
 1. File of type CSV
 2. Any entry must be a number, no letters and no commas
 3. Decimal numbers should be in increments of 0.5
