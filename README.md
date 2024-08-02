@@ -21,7 +21,7 @@ You must have a running Java version. This project was created using the 2022 ve
 8. Click 'New' and write '%JAVA_HOME%\bin' and click 'OK' on all open windows 
 9. Run Sprinter.exe
 
-### Input File Restrictions
+## Input File Restrictions
 Refer to --- 
 1. File of type CSV
 2. Any entry must be a number, no letters and no commas
